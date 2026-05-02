@@ -1104,6 +1104,8 @@ body.dark-theme {
 /*=============== SCROLL UP ===============*/
 
 .scrollup {
+  height: 2rem;
+  width: 2rem;
   position: fixed;
   right: 1rem;
   bottom: -30%;
@@ -1117,6 +1119,8 @@ body.dark-theme {
   z-index: 100;
   transition: bottom .4s, transform .4s;
   margin-bottom: 4rem;
+  align-items: center;
+  justify-content: center;
 }
 
 
