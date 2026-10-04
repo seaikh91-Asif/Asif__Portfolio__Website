@@ -343,6 +343,7 @@ body.dark-theme {
   display: flex;
   justify-content: center;
   align-items: flex-end;
+  background-size: cover;
 }
 
 .home__perfil img{
